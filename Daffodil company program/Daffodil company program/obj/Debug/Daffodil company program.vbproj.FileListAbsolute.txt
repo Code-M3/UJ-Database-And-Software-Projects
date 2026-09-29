@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\Daffodil company program.exe.config
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\Daffodil company program.exe
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\Daffodil company program.pdb
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\Daffodil company program.xml
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.exe.config
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil_company_program.Form1.resources
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil_company_program.Resources.resources
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil.A82F062C.Up2Date
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.exe
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.xml
+C:\Users\Khumo\source\repos\Daffodil company program\Daffodil company program\obj\Debug\Daffodil company program.pdb
