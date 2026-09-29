@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\Martain Farmer program.exe.config
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\Martain Farmer program.exe
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\Martain Farmer program.pdb
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\Martain Farmer program.xml
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.exe.config
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain_Farmer_program.Form1.resources
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain_Farmer_program.Resources.resources
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain .2593F0F8.Up2Date
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.exe
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.xml
+C:\Users\Khumo\source\repos\Martain Farmer program\Martain Farmer program\obj\Debug\Martain Farmer program.pdb
