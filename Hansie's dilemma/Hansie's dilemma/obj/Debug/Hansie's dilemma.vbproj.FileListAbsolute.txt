@@ -1,0 +1,12 @@
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\bin\Debug\Hansie's dilemma.exe.config
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\bin\Debug\Hansie's dilemma.exe
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\bin\Debug\Hansie's dilemma.pdb
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\bin\Debug\Hansie's dilemma.xml
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie_s_dilemma.Form1.resources
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie_s_dilemma.Resources.resources
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.exe
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.xml
+C:\Users\Khumo\source\repos\Hansie's dilemma\Hansie's dilemma\obj\Debug\Hansie's dilemma.pdb

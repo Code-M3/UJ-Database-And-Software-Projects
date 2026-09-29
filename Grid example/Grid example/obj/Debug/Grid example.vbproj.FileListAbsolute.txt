@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\Grid example.exe.config
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\Grid example.exe
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\Grid example.pdb
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\Grid example.xml
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\Grid example\Grid example\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.exe.config
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid_example.Form1.resources
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid_example.Resources.resources
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid exa.E77F37E2.Up2Date
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.exe
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.xml
+C:\Users\Khumo\source\repos\Grid example\Grid example\obj\Debug\Grid example.pdb
