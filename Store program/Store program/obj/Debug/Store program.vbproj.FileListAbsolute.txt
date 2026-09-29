@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\Store program.exe.config
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\Store program.exe
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\Store program.pdb
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\Store program.xml
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\Store program\Store program\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.exe.config
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store_program.Form1.resources
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store_program.Resources.resources
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store pr.2C87EFBC.Up2Date
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.exe
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.xml
+C:\Users\Khumo\source\repos\Store program\Store program\obj\Debug\Store program.pdb

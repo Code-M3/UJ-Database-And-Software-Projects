@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\Martian Farmer program (1.2).exe.config
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\Martian Farmer program (1.2).exe
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\Martian Farmer program (1.2).pdb
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\Martian Farmer program (1.2).xml
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).exe.config
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian_Farmer_program__1._2_.Form1.resources
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian_Farmer_program__1._2_.Resources.resources
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian .0B4DA03C.Up2Date
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).exe
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).xml
+C:\Users\Khumo\source\repos\Martian Farmer program (1.2)\Martian Farmer program (1.2)\obj\Debug\Martian Farmer program (1.2).pdb
