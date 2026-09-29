@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\The Moon President's Dilemma.exe.config
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\The Moon President's Dilemma.exe
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\The Moon President's Dilemma.pdb
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\The Moon President's Dilemma.xml
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.exe.config
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The_Moon_President_s_Dilemma.Form1.resources
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The_Moon_President_s_Dilemma.Resources.resources
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon.CD03BDFF.Up2Date
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.exe
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.xml
+C:\Users\Khumo\source\repos\The Moon President's Dilemma\The Moon President's Dilemma\obj\Debug\The Moon President's Dilemma.pdb

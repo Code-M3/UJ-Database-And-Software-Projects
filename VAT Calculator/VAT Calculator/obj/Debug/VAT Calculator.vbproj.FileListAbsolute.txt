@@ -1,0 +1,5 @@
+C:\Users\Khumo\source\repos\VAT Calculator\VAT Calculator\obj\Debug\VAT Calculator.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\VAT Calculator\VAT Calculator\obj\Debug\VAT_Calculator.frmVAT.resources
+C:\Users\Khumo\source\repos\VAT Calculator\VAT Calculator\obj\Debug\VAT_Calculator.Resources.resources
+C:\Users\Khumo\source\repos\VAT Calculator\VAT Calculator\obj\Debug\VAT Calculator.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\VAT Calculator\VAT Calculator\obj\Debug\VAT Calculator.vbproj.CoreCompileInputs.cache
