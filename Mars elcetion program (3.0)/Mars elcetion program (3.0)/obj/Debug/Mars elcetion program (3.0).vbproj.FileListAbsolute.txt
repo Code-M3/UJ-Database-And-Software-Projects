@@ -1,0 +1,12 @@
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\bin\Debug\Mars elcetion program (3.0).exe.config
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\bin\Debug\Mars elcetion program (3.0).exe
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\bin\Debug\Mars elcetion program (3.0).pdb
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\bin\Debug\Mars elcetion program (3.0).xml
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars_elcetion_program__3._0_.Form1.resources
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars_elcetion_program__3._0_.Resources.resources
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).exe
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).xml
+C:\Users\Khumo\source\repos\Mars elcetion program (3.0)\Mars elcetion program (3.0)\obj\Debug\Mars elcetion program (3.0).pdb

@@ -1,0 +1,5 @@
+C:\Users\Khumo\source\repos\Hansie's dilemma (2.0)\Hansie's dilemma (2.0)\obj\Debug\Hansie's dilemma (2.0).vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Hansie's dilemma (2.0)\Hansie's dilemma (2.0)\obj\Debug\Hansie_s_dilemma__2._0_.Form1.resources
+C:\Users\Khumo\source\repos\Hansie's dilemma (2.0)\Hansie's dilemma (2.0)\obj\Debug\Hansie_s_dilemma__2._0_.Resources.resources
+C:\Users\Khumo\source\repos\Hansie's dilemma (2.0)\Hansie's dilemma (2.0)\obj\Debug\Hansie's dilemma (2.0).vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Hansie's dilemma (2.0)\Hansie's dilemma (2.0)\obj\Debug\Hansie's dilemma (2.0).vbproj.CoreCompileInputs.cache
