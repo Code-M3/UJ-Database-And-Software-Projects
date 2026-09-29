@@ -1,0 +1,12 @@
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\bin\Debug\BullyBeef's program.exe.config
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\bin\Debug\BullyBeef's program.exe
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\bin\Debug\BullyBeef's program.pdb
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\bin\Debug\BullyBeef's program.xml
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef_s_program.Form1.resources
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef_s_program.Resources.resources
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.exe
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.xml
+C:\Users\Khumo\source\repos\BullyBeef's program\BullyBeef's program\obj\Debug\BullyBeef's program.pdb
