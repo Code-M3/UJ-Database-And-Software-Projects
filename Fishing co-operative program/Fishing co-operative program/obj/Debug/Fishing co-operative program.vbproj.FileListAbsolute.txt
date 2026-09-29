@@ -1,0 +1,12 @@
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing_co_operative_program.Form1.resources
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing_co_operative_program.Resources.resources
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\bin\Debug\Fishing co-operative program.exe.config
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\bin\Debug\Fishing co-operative program.exe
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\bin\Debug\Fishing co-operative program.pdb
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\bin\Debug\Fishing co-operative program.xml
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.exe
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.xml
+C:\Users\Khumo\source\repos\Fishing co-operative program\Fishing co-operative program\obj\Debug\Fishing co-operative program.pdb
