@@ -1,0 +1,12 @@
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\bin\Debug\Sum Program.exe.config
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\bin\Debug\Sum Program.exe
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\bin\Debug\Sum Program.pdb
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\bin\Debug\Sum Program.xml
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum_Program.Form1.resources
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum_Program.Resources.resources
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.exe
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.xml
+C:\Users\Khumo\source\repos\Sum Program\Sum Program\obj\Debug\Sum Program.pdb

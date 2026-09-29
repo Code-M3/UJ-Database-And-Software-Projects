@@ -1,0 +1,17 @@
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\S22109348.exe.config
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\S22109348.exe
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\S22109348.pdb
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\S22109348.xml
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Khumo\source\repos\S22109348\S22109348\bin\Debug\UJGrid.dll
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.vbproj.AssemblyReference.cache
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.exe.config
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.Form1.resources
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.Resources.resources
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.vbproj.GenerateResource.cache
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.vbproj.CoreCompileInputs.cache
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.vbproj.Up2Date
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.exe
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.xml
+C:\Users\Khumo\source\repos\S22109348\S22109348\obj\Debug\S22109348.pdb
